@@ -21,7 +21,8 @@
     },
     "autoload": {
         "psr-4": {
-            "BackBee\\Standard\\": ""
+            "BackBee\\Standard\\": "",
+            "Backbee\\Theme\\": "themes/"
         }
     },
     "scripts": {
